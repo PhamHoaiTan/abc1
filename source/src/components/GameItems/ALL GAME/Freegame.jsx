@@ -11,7 +11,7 @@ const Freegame = () => {
         <div className="free-game-header">
           <div className="header-left">
             <img src={assets.gift} alt="Gift Icon" />
-            <h2 className="title">Free Game</h2>
+            <h2 className="title">Marathon Mountain</h2>
           </div>
           <button>View More</button>
         </div>
