@@ -32,9 +32,9 @@ function Navbar({setShowLogin,setShowMore,showMore,aboutUs,setAboutUs}) {
     <div className="nav-left">
     <Link to={'/'}><img src={assets.logo} alt="" className='logo' id='logo' onClick={()=>setAboutUs(false)}/></Link>
        <p className='line'>|</p>
-      <Link to="/"><h2 className='WebTitle' onClick={()=>setAboutUs(false)}>FPT GAMING ZONE</h2></Link>
+      <Link to="/"><h2 className='WebTitle' onClick={()=>setAboutUs(false)}>FPT Climbing</h2></Link>
       <Link to='/catalogue' id='catelogue-id'onClick={()=>setAboutUs(false)} ><p>Catalogues</p></Link>
-      <Link to='/aboutUs' onClick={()=>setAboutUs(true)}><p>About FGZ</p></Link>
+      <Link to='/aboutUs' onClick={()=>setAboutUs(true)}><p>About Us</p></Link>
 
       {/* <img src={assets.search_icon} alt="" className='search-button' /> */}
     </div>

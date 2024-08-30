@@ -43,7 +43,7 @@ function ProductDetail() {
         {/* Detail Right */}
         <div className="detail-right">
           <div className="base-game">
-            <p>Base Game</p>
+            <p>About Trip</p>
           </div>
           <p className="price">${product.price}</p>
           <div className="detail-bt">

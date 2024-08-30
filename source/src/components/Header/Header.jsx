@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import headerImage from '../../assets/Carousel.png'; 
+import headerImage from '../../assets/Carousel.webp'; 
 import { Link } from 'react-router-dom';
 
 const Header = () => {

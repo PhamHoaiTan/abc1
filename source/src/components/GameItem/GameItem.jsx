@@ -29,7 +29,7 @@ const GameItem = ({
                 <img src={image} alt={name} />
                 </Link> 
                 </div>
-                <p>Base game</p>
+                <p>About Trip</p>
                 <h4>{name}</h4>
                 <p>{price}$</p>
                 <p>{genre}</p>

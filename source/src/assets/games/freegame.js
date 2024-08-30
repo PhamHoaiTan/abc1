@@ -1,6 +1,6 @@
-import game_13 from './Game 13.webp'
-import game_14 from './Game 14.webp'
-import game_15 from './Game 15.webp'
+import game_13 from './Cho Oyu.jpg'
+import game_14 from './Damavand.jpg'
+import game_15 from './Denali.jpg'
 const freegame = [
     {
       id: 19,

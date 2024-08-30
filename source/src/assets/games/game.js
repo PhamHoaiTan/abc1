@@ -1,22 +1,22 @@
 // src/assets/games/game.js\
-import game_1 from './Game 1.webp'
-import game_2 from './Game 2.webp'
-import game_3 from './Game 3.webp'
-import game_4 from './Game 4.webp'
-import game_5 from './Game 5.webp'
-import game_6 from './Game 6.webp'
-import game_7 from './Game 7.webp'
-import game_8 from './Game 8.webp'
-import game_9 from './Game 9.webp'
-import game_10 from './Game 10.webp'
-import game_11 from './Game 11.webp'
-import game_12 from './Game 12.webp'
-import game_16 from './Game 16.webp'
-import game_17 from './Game 17.webp'
-import game_18 from './Game 18.webp'
-import game_19 from './Game 19.webp'
-import game_20 from './Game 20.webp'
-import game_21 from './Game 21.webp'
+import game_1 from './Aconcagua.jpg'
+import game_2 from './Annapurna.webp'
+import game_3 from './Cho Oyu.jpg'
+import game_4 from './Damavand.jpg'
+import game_5 from './Denali.jpg'
+import game_6 from './Kangchenjunga.jpg'
+import game_7 from './Kilimanjaro.webp'
+import game_8 from './Makalu.jpg'
+import game_9 from './Nanga Parbat.jpeg'
+import game_10 from './Vinson Massif.jpg'
+import game_11 from './Aconcagua.jpg'
+import game_12 from './Annapurna.webp'
+import game_16 from './Kangchenjunga.jpg'
+import game_17 from './Kilimanjaro.webp'
+import game_18 from './Makalu.jpg'
+import game_19 from './Nanga Parbat.jpeg'
+import game_20 from './Vinson Massif.jpg'
+import game_21 from './Vinson Massif.jpg'
 
 
 
@@ -28,7 +28,7 @@ const games = [
     id: '1',
     name: "Monkey King 2099",
     price: 19.99,
-    genre: "Adventure / MOBA",
+    genre: "Asian",
     image: game_1,
     description: "Monkey King 2099 is a futuristic adventure game set in a vibrant and chaotic world. Players embark on a quest to uncover the secrets of the Monkey King's past while battling enemies and solving puzzles.",
     releaseDate: "2023-05-15",
@@ -39,7 +39,7 @@ const games = [
     id: '2',
     name: "Call of Rusi",
     price: 29.99,
-    genre: "FPS / Bang Bang",
+    genre: "Asian",
     image: game_2,
     description: "Call of Rusi is an action-packed first-person shooter where players engage in intense combat missions across various terrains. With stunning graphics and immersive gameplay, this game takes FPS to a new level.",
     releaseDate: "2022-11-10",
@@ -50,7 +50,7 @@ const games = [
     id: '3',
     name: "Final Frontier XX",
     price: 24.99,
-    genre: "Adventure / FPS",
+    genre: "Asian",
     image: game_3,
     description: "Final Frontier XX takes players on an epic space adventure. Navigate through galaxies, battle space pirates, and uncover hidden secrets in this thrilling FPS.",
     releaseDate: "2023-02-20",
@@ -61,7 +61,7 @@ const games = [
     id: '4',
     name: "Need for Dead",
     price: 39.99,
-    genre: "Br / Br / Skrt Skrt",
+    genre: "Asian",
     image: game_4,
     description: "Need for Dead combines high-speed racing with zombie survival. Race through apocalyptic landscapes, customize your vehicle, and fight off hordes of the undead.",
     releaseDate: "2023-09-01",
@@ -72,7 +72,7 @@ const games = [
     id: '5',
     name: "Face UR Nightmares",
     price: 9.99,
-    genre: "Horror",
+    genre: "Asian",
     image: game_5,
     description: "Face UR Nightmares is a horror game that plunges players into a terrifying world of darkness. Solve puzzles and escape from horrifying creatures.",
     releaseDate: "2023-10-31",
@@ -83,7 +83,7 @@ const games = [
     id: '6',
     name: "Mother Russia",
     price: 14.99,
-    genre: "Adventure / MOBA",
+    genre: "Asian",
     image: game_6,
     description: "Mother Russia is a strategy-based MOBA game set in post-apocalyptic Russia. Form alliances, build your base, and conquer territories.",
     releaseDate: "2024-01-15",
@@ -94,7 +94,7 @@ const games = [
     id: '7',
     name: "Survive Against All Odds",
     price: 19.99,
-    genre: "FPS / Bang Bang",
+    genre: "Asian",
     image: game_7,
     description: "Survive Against All Odds is a survival FPS game. Players must scavenge for resources, craft weapons, and fend off enemies in a hostile environment.",
     releaseDate: "2024-03-20",
@@ -105,7 +105,7 @@ const games = [
     id: '8',
     name: "Space Wars",
     price: 29.99,
-    genre: "Adventure / FPS",
+    genre: "Asian",
     image: game_8,
     description: "Space Wars is an intergalactic FPS game. Players engage in space battles, explore alien planets, and complete missions to save the galaxy.",
     releaseDate: "2024-05-30",
@@ -116,7 +116,7 @@ const games = [
     id: '9',
     name: "Brave New World",
     price: 24.99,
-    genre: "Br / Br / Skrt Skrt",
+    genre: "Asian",
     image: game_9,
     description: "Brave New World is an open-world adventure game. Explore vast landscapes, interact with NPCs, and shape the story through your choices.",
     releaseDate: "2024-07-22",
@@ -127,7 +127,7 @@ const games = [
     id: '10',
     name: "Dark Realm",
     price: 39.9,
-    genre: "Horror",
+    genre: "Northern Europe",
     image: game_10,
     description: "Dark Realm is a horror game that challenges players to survive in a nightmarish world. Solve puzzles, avoid monsters, and uncover the truth behind the darkness.",
     releaseDate: "2024-10-05",
@@ -138,7 +138,7 @@ const games = [
     id: '11',
     name: "Fantasy Quest",
     price: 14.99,
-    genre: "Adventure / MOBA",
+    genre: "Northern Europe",
     image: game_11,
     description: "Fantasy Quest is a MOBA game set in a magical world. Choose your hero, team up with friends, and battle against other players in epic arenas.",
     releaseDate: "2025-01-15",
@@ -149,7 +149,7 @@ const games = [
     id: '12',
     name: "Survival Horror",
     price: 9.99,
-    genre: "Horror",
+    genre: "Northern Europe",
     image: game_12,
     description: "Survival Horror is a survival game set in a haunted mansion. Gather resources, solve puzzles, and survive the night against relentless ghosts.",
     releaseDate: "2025-03-10",
@@ -160,7 +160,7 @@ const games = [
     id: '16',
     name: "Apocalypse Racer",
     price: 29.99,
-    genre: "Br / Br / Skrt Skrt",
+    genre: "Northern Europe",
     image: game_16,
     description: "Apocalypse Racer is a high-octane racing game set in a post-apocalyptic world. Customize your vehicle and race against other survivors.",
     releaseDate: "2025-11-01",
@@ -171,7 +171,7 @@ const games = [
     id: '17',
     name: "Galaxy Shooter",
     price: 24.9,
-    genre: "Adventure / FPS",
+    genre: "Northern Europe",
     image: game_17,
     description: "Galaxy Shooter is an FPS game where players battle against alien invaders. Upgrade your weapons and defend the galaxy from destruction.",
     releaseDate: "2026-01-20",
@@ -182,7 +182,7 @@ const games = [
     id: '18',
     name: "City Builder",
     price: 19.99,
-    genre: "Strategy / Simulation",
+    genre: "Western Europe",
     image: game_18,
     description: "City Builder is a strategy game where players design and manage their own city. Plan your layout, manage resources, and keep your citizens happy.",
     releaseDate: "2026-03-15",
@@ -193,7 +193,7 @@ const games = [
     id: '19',
     name: "Epic Journey",
     price: 29.99,
-    genre: "Adventure / RPG",
+    genre: "Western Europe",
     image: game_19,
     description: "Epic Journey takes players on an epic adventure through a mystical world filled with quests and challenges.",
     releaseDate: "2026-05-20",
@@ -204,7 +204,7 @@ const games = [
     id: '20',
     name: "Dream Life",
     price: 24.9,
-    genre: "Simulation / Life",
+    genre: "Western Europe",
     image: game_20,
     description: "Dream Life lets players build and manage their own virtual neighborhoods, creating stories and adventures.",
     releaseDate: "2026-07-10",
@@ -215,7 +215,7 @@ const games = [
     id: '21',
     name: "Speed Racer",
     price: 19.99,
-    genre: "Racing / Sports",
+    genre: "Western Europe",
     image: game_21,
     description: "Speed Racer is a high-octane racing game where players compete in thrilling races on various tracks.",
     releaseDate: "2026-09-01",

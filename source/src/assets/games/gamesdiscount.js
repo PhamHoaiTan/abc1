@@ -1,10 +1,10 @@
 // src/assets/games/gamesdiscount.js
-import game_16 from './Game 16.webp'
-import game_17 from './Game 17.webp'
-import game_18 from './Game 18.webp'
-import game_19 from './Game 19.webp'
-import game_20 from './Game 20.webp'
-import game_21 from './Game 21.webp'
+import game_16 from './Kangchenjunga.jpg'
+import game_17 from './Kilimanjaro.webp'
+import game_18 from './Makalu.jpg'
+import game_19 from './Nanga Parbat.jpeg'
+import game_20 from './Vinson Massif.jpg'
+import game_21 from './Vinson Massif.jpg'
 const gamesdiscount = [
     {
       id: 16,
