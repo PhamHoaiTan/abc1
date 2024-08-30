@@ -1,7 +1,7 @@
 FPT GAMING ZONE
 eProject-2024 Batch no: T3.2403.M1
 
-Project title: FPT GAMING ZONE
+Project title: FPT CLIMBING
 
 ========> Group 02 <=========
 
