@@ -1,36 +1,33 @@
 import React from "react";
 import "./AboutUs.css";
-import Infographic1 from "../../assets/About Us/Infographic 1.webp";
-import Infographic2 from "../../assets/About Us/Infographic 2.webp";
+import Infographic1 from "../../assets/About Us/aboutus4.jpg";
+import Infographic2 from "../../assets/About Us/aboutus5.webp";
 
 const AboutUs = () => {
   return (
     <div className="AboutUs">
       <div className="AboutUs-container">
-        <h1>ABOUT FPT GAMING ZONE</h1>
+        <h1>FPT Climbing</h1>
         <div className="AboutUs-container-content">
           <p>
-            Founded in 2024, FPT Gaming Zone is a leading interactive
-            entertainment company based in Vietnam. We provide an extensive
-            range of games that cater to diverse tastes and preferences, from
-            action-packed adventures to mind-bending puzzles. FPT Gaming Zone is
-            not just a place to buy games; it's a community for gamers to
-            connect, compete, and share their experiences.
+            Welcome to FPT Climbing - where the passion for conquering nature
+            and peaks blend into an endless journey.
           </p>
-          <img src={Infographic1} alt="Infographic 1" className="about-image"/>
+          <img src={Infographic1}lt="Infographic 1" className="about-image" />
           <p>
-            Our flagship offerings include popular titles like "Heroes of VNG,"
-            "Legendary Battles," and "Mystery Quest." We are dedicated to
-            bringing the best gaming experiences to our users by partnering with
-            top game developers worldwide.
+            At FPT Climbing, we are not simply people who love climbing, but
+            also people who believe that every mountain has a story, every peak
+            a challenge, and every path is a journey of self-discovery. We are
+            committed to providing the best products and services to those who
+            crave exploration, from beginners to professional climbers.
           </p>
-          <img src={Infographic2} alt="Infographic 2" className="about-image"/>
+          <img src={Infographic2} alt="Infographic 2" className="about-image" />
           <h2 className="haha">Contact Information</h2>
           <div className="About-container-contact">
             <p className="About-container-border"></p>
             <p>123 ABC Street, XYZ District, Ho Chi Minh City, Vietnam</p>
             <p>Tel +84 123 456 789</p>
-            <p>Email: support@fptgamingzone.com</p>
+            <p>Email: support@FPT Climbing.com</p>
           </div>
         </div>
         <div className="About-container-about">
@@ -38,11 +35,11 @@ const AboutUs = () => {
             <p className="About-container-border">
               Interested in joining our team?
             </p>
-            <p>We’re hiring! Visit the FPT Gaming Zone Careers portal.</p>
+            <p>We’re hiring! Visit FPT Climbing Careers portal.</p>
           </div>
           <div className="">
             <p className="About-container-border">
-              Need help with our games or your FPT Gaming Zone account?{" "}
+              Need help with our games or your FPT Climbing account?{" "}
             </p>
             <p>Visit our support center.</p>
           </div>
@@ -54,9 +51,11 @@ const AboutUs = () => {
           <div className="">
             <p className="About-container-border">Can I visit your studio?</p>
             <p>
-              Unfortunately, we do not offer studio tours. Our priority is to
-              provide a focused environment for our team to continue creating
-              amazing games.
+              With an experienced and dedicated team, we understand the
+              importance of careful preparation and safety in every trip. We
+              constantly seek and develop high quality products, from climbing
+              equipment, specialized clothing to training courses, to help you
+              confidently overcome all challenges and conquer the peaks. new.
             </p>
           </div>
           <div className="">
@@ -101,7 +100,7 @@ const AboutUs = () => {
           </div>
           <div className="">
             <p className="About-container-border">
-              Does FPT Gaming Zone sponsor gaming tournaments?
+            Alpine Ascents sponsor gaming tournaments?
             </p>
             <p>
               We currently do not offer sponsorships for gaming competitions and
@@ -110,7 +109,7 @@ const AboutUs = () => {
           </div>
           <div className="">
             <p className="About-container-border">
-              Does FPT Gaming Zone offer scholarships?
+            Alpine Ascents offer scholarships?
             </p>
             <p>We do not offer scholarships at this time.</p>
           </div>
